@@ -71,7 +71,7 @@ public class RoadController {
     }
 
     /**
-     * Открытие шлагбаума
+     * Открытие шлагбаума/
      */
     private static void openWay() {
         System.out.println("Шлагбаум открывается... Счастливого пути!");
